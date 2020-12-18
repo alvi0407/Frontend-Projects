@@ -1,0 +1,71 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+    color: hsl(210, 46%, 95%);
+    font-family: "Barlow Semi Condensed", sans-serif;
+  }
+  .upper {
+    padding: 20px;
+    font-size: 13px;
+  }
+  
+  .inner-box {
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  
+  .top-box {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  img {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    height: 2rem;
+    width: 2rem;
+  }
+  
+  .one {
+    background-color: hsl(263, 55%, 52%);
+  }
+  
+  .two {
+    background-color: hsl(217, 19%, 35%);
+    padding-bottom: 2.3rem;
+  }
+  
+  .three {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(217, 19%, 35%);
+    padding-bottom: 2.2rem;
+  }
+  
+  .four {
+    background-color: hsl(219, 29%, 14%);
+  }
+  
+  .five {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(217, 19%, 35%);
+    padding-bottom: 1.4rem;
+  }
+  
+  .name {
+    font-weight: 500;
+  }
+  .grad {
+    opacity: 50%;
+  }
+
+  .quote {
+    font-weight: 600;
+    font-size: 17px;
+  }
+  .review {
+    opacity: 70%;
+  }
+
+  .Daniel ,.Patrick{
+      border: 2px solid hsl(263, 72%, 66%);
+  }
+  
